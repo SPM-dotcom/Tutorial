@@ -1,5 +1,5 @@
 //locate your IR Sensor pin 
-  int ir1=8,ir2=9,ir3=10;
+int ir1=8,ir2=9,ir3=10;
 void setup() {
    // put your setup code here, to run once:
   pinMode(8,INPUT);
